@@ -1,4 +1,4 @@
-Deep-Hash-Utils version 0.01
+Deep-Hash-Utils version 0.02
 ============================
 
 NAME
@@ -17,6 +17,8 @@ To install this module type the following:
 HISTORY
 
 	0.01 initial release
+
+	0.02 documentation updates & uploaded to github
 
 COPYRIGHT AND LICENCE
 
