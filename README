@@ -1,0 +1,26 @@
+Deep-Hash-Utils version 0.01
+============================
+
+NAME
+
+Deep::Iterator - Iterate over nested data structures
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+HISTORY
+
+	0.01 initial release
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 by Chris Becker
+
+
+

@@ -1,0 +1,6 @@
+Revision history for Perl extension Deep::Hash::Utils.
+
+0.01  Sun Jan 25 09:01:06 2009
+	- original version; created by h2xs 1.23 with options
+		-AXn Deep::Hash::Utils -v 0.01
+
