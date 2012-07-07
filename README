@@ -3,7 +3,7 @@ Deep-Hash-Utils version 0.01
 
 NAME
 
-Deep::Iterator - Iterate over nested data structures
+Deep::Hash::Utils - Functions for reading and writing deeply nested hashes
 
 INSTALLATION
 
